@@ -1,0 +1,15 @@
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.csproj.AssemblyReference.cache
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.AssemblyInfoInputs.cache
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.AssemblyInfo.cs
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.csproj.CoreCompileInputs.cache
+C:\c#_app\JuegoPersonajes\bin\Debug\net6.0\JuegoPersonajes.exe
+C:\c#_app\JuegoPersonajes\bin\Debug\net6.0\JuegoPersonajes.deps.json
+C:\c#_app\JuegoPersonajes\bin\Debug\net6.0\JuegoPersonajes.runtimeconfig.json
+C:\c#_app\JuegoPersonajes\bin\Debug\net6.0\JuegoPersonajes.dll
+C:\c#_app\JuegoPersonajes\bin\Debug\net6.0\JuegoPersonajes.pdb
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.dll
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\refint\JuegoPersonajes.dll
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.pdb
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\JuegoPersonajes.genruntimeconfig.cache
+C:\c#_app\JuegoPersonajes\obj\Debug\net6.0\ref\JuegoPersonajes.dll
